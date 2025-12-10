@@ -1,0 +1,13 @@
+name = "Server Mods"
+author = "DelicateChaos"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "744e720a34d08c17c8426850fa80ad52585bb2db1ae57538c6e63a1082a36c9a"
+
+[versions]
+fabric = "0.18.2"
+minecraft = "1.21.11"
