@@ -1,0 +1,13 @@
+name = "Axes Are Weapons"
+filename = "AxesAreWeapons-1.9.5-fabric-1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1jvt7RTc/versions/Sm13IZEm/AxesAreWeapons-1.9.5-fabric-1.21.11.jar"
+hash-format = "sha512"
+hash = "b954063b8cdbb46040ae37ac6ce5e9e32a7a6817ebef2144d50f5d932b1ef1d58cc5140e12829a47c0497e29ff55c358a8c4d2650df2f5522db602c1ee9a96ac"
+
+[update]
+[update.modrinth]
+mod-id = "1jvt7RTc"
+version = "Sm13IZEm"
