@@ -5,6 +5,78 @@ file = "README.md"
 hash = "b0004935c5e8f7ff3a9f4cb1cd8e0419ecb16ea7efb009ec8a2e470670301aad"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "2ffda846d5231928d176505fac55f356d263abde247a84a91b933d1b789580c2"
+
+[[files]]
+file = "config/axesareweapons.json5"
+hash = "0abb77ff7bac93972090e77b8171d3f7976c500ed2be4bd946826abd17db200a"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "config/farmersdelight-common.json"
+hash = "bdd90884cfbde8fad7593b041685789364ac6e6636602550f836e3e03818c2b0"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "5efe7b1f6c71ba198780ec90a3f2baba727242b75378ba4ddb9fac289c6f983f"
+
+[[files]]
+file = "config/justplayerheads.json5"
+hash = "f1f888cb5f0da0d8c6dd2aaa866e15f4ceef00528d3602e24a2b7fef7d4b4dd0"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "2f87249375833cd75d0975b4f2b85b6ceef5f911ba5e54d1446963bf3f7d4657"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "f6a4950e02e2e2aac4525c924b22500282fc27996d4385de466ab34ff8d6dcd6"
+
+[[files]]
+file = "config/sit!/server-config.json"
+hash = "557a47e98a398a472750e429aa7433ded5dbda18dd8e38feaa89ef555730850f"
+
+[[files]]
+file = "config/sit!/sitting-config.json"
+hash = "a8002c8a6799e31f3a911ba332ad954ec235fabcdfa7efb9cb61a73efbc842d5"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spark/tmp/about.txt"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "5e42cec6e3ed64996eced65c11b813286874a6ffed685a0b141171ced6a24335"
+
+[[files]]
+file = "config/vcinteraction/vcinteraction.properties"
+hash = "b428c07faaed97d3bee29aa748bb8a1773f5145008435c08d9b5aed5151da3ad"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "1173e615040e7b5d8302da6b3b908432177f38270e9be290726340abf02fe09a"
+
+[[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "42538c5ce50442ed0294ccee2bf1cb619e8590b6bc898fc30eb314b3d281b54d"
 metafile = true
