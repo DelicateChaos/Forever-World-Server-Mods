@@ -77,8 +77,67 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "1173e615040e7b5d8302da6b3b908432177f38270e9be290726340abf02fe09a"
 
 [[files]]
+file = "mods/ACE_mc1.21.11-4.3.jar"
+hash = "67afa005b446243ff1eb2dd9dc3b8f3f40c0ee5149be246d8716a467aada5056"
+
+[[files]]
+file = "mods/AxesAreWeapons-1.9.5-fabric-1.21.11.jar"
+hash = "1547b99c8dc69f3516c840cab135023b861fa4638b9d66e4a7f5c7ee392b2917"
+
+[[files]]
+file = "mods/DistantHorizons-2.4.2-b-1.21.11-fabric-neoforge.jar"
+hash = "8a6a6a9600ed95fdb6c673a90b8ef20863971f2902cd166a1561b9648e880c07"
+
+[[files]]
+file = "mods/FABRIC-1.21.11-0.1.jar"
+hash = "67a5b5ac1d462750b976ebc860e0224277e26f506f225784008b504bb28102db"
+
+[[files]]
+file = "mods/FarmersDelight-1.21.11-3.4.2+refabricated.jar"
+hash = "1640d05f628b5b7d98dc464786ed5e9603d3fb0ba5781db29fe2aaef5e0cd91e"
+
+[[files]]
+file = "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
+hash = "31a0686904fad1cfdeb1d6b011ac1c2280990d6e76ac2416468147e2246b4db1"
+
+[[files]]
+file = "mods/InvView-1.4.19-1.21.11+.jar"
+hash = "a11820ecbc5be6ba5550141ed7019f1a20ab401214ff056d25691d840dc580bd"
+
+[[files]]
+file = "mods/Jade-1.21.11-Fabric-21.0.1.jar"
+hash = "90760682c93d2af7e8e1b21703c47519d56f4ef752a2b0518d21d31796ea4ad3"
+
+[[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "86dbb557dc9483923cc56cb7a049116eb9ec80a307c4ba452d51673619c37ab6"
+metafile = true
+
+[[files]]
+file = "mods/actuallyharvest-1.21.11-fabric-1.1.7.0-FABRIC.jar"
+hash = "93f6e3792d553b53f56da6a9b9e0247e5b98de2919a9b4095e938805a899474c"
+
+[[files]]
+file = "mods/appleskin-fabric-mc1.21.11-3.0.7.jar"
+hash = "50e8c3eaf69f5919a16cc4228cfabd5f3b9d77413d267834992c3e3c51ae93ed"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
+metafile = true
+
+[[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "42538c5ce50442ed0294ccee2bf1cb619e8590b6bc898fc30eb314b3d281b54d"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer-fabric-2.0.10+1.21.11.jar"
+hash = "352e6b0a23752cc94eea2b232cee229c09b7bcb155a36a308238a1012c21280d"
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "e0977ddb68d1052103b190855db0f56a85499351fcd1f43df42c4ff37021b01c"
 metafile = true
 
 [[files]]
@@ -87,9 +146,17 @@ hash = "560e35197f3a2d34b709aeb79098e4ac480b52bf2115aa8f5c5ed194d88b29c9"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config-21.11.151-fabric.jar"
+hash = "e283d104a4a01b13e5a7dd4957056e3c735fcda83d6b31f3bc8f3ba469a18f14"
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "72f3dbfcfbf16d8437d865b090c4338cf32de86f290e8e8dde5626cb301bb4c7"
 metafile = true
+
+[[files]]
+file = "mods/collective-1.21.11-8.13.jar"
+hash = "f79aa00b159be2ca65421557872939d1aa3532f4f91066fa38b8ab9c0265d2ef"
 
 [[files]]
 file = "mods/collective.pw.toml"
@@ -97,9 +164,18 @@ hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
 metafile = true
 
 [[files]]
+file = "mods/craftable-name-tag.pw.toml"
+hash = "13a527880bac9bd249ce8f63299ae26c8452fe19edbb5f6ee75dc055f398d2fa"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "8395078cc9b359cf76e0bf950c57b886101446d1c7893a733c9cc16fd6c7d2f8"
 metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.139.5+1.21.11.jar"
+hash = "5544c9a917b819f32219bf96fe35c5407b818c9b64146fddbdf049286cd731a9"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -117,8 +193,30 @@ hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore-8.0.3-fabric.jar"
+hash = "c86eabacdbf063989b2ca812c8e93f556b8feff1c9dfc07caefa1d90a5c7bf35"
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
+metafile = true
+
+[[files]]
+file = "mods/gravestones-1.2.7+1.21.11+B.jar"
+hash = "86b7509825a415f6e2541eb3cf94835f6c10b8c4061d1adf92ac96cfa7ab67db"
+
+[[files]]
 file = "mods/invisible-frames-mod.pw.toml"
 hash = "a32b6a52f95718610b1bbf9e52979f633374faa57b8e068691e21d02ede39c22"
+metafile = true
+
+[[files]]
+file = "mods/invisibleframes-1.5.0+1.21.6.jar"
+hash = "fadaa72dfb0968fd7413e1c56709b4eb7d446927bfadae04f83a29b115b510e5"
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "80bdecdf7911f4b1b6c57d18717d8f435ae237991efdd4c43c50ba6f42bb2139"
 metafile = true
 
 [[files]]
@@ -127,9 +225,22 @@ hash = "53ca4dd806e6ae6b3d72d7707ff59c30bb6b07b7f9c2b0a2a82534c0ecfb78c4"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "b322ceb4058faa12a4f2ad1fa855e69d372d8536526c26f8c875a2f7d6e2234a"
+metafile = true
+
+[[files]]
 file = "mods/just-player-heads.pw.toml"
 hash = "642c233a5f38341db207393f0376f3c6d49f376f398add37553d6ccd9f7a9baa"
 metafile = true
+
+[[files]]
+file = "mods/justplayerheads-1.21.11-4.3.jar"
+hash = "fec21c60974534cda5e6566d0f074e9d253496e0342652f953eb2cff68ccf836"
+
+[[files]]
+file = "mods/lithium-fabric-0.21.1+mc1.21.11.jar"
+hash = "6cf5e8fd272dc332066b65cb5c2e8a16b99fb9e83dd87bb9ba9c5953e2cf530e"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -142,9 +253,44 @@ hash = "3f0449bb15482e4755703638bb343407accece8208ac6df225623db2852523a1"
 metafile = true
 
 [[files]]
+file = "mods/moredelight-25.12.10-1.21.11-fabric.jar"
+hash = "295cadc0eab2d7976a9e54576c5e6f1b545e508dbb4b4a018fcc10a4c1cc2ce9"
+
+[[files]]
+file = "mods/otterlib-0.2.2.1+1.21.11-fabric.jar"
+hash = "c3b800cfdf13b23a96241c1852c8406bf50c2158d1607c7a0bb12c2a1bda8ca6"
+
+[[files]]
 file = "mods/otterlib.pw.toml"
 hash = "a7aaa19d5a9df2b847686f17f8bdd80ded4097a3880fb89a30175a14ae45c5e2"
 metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "6a6eb01c3a425f9dd78dcec3337898cc2b1ac8e6e7dec2f209e63b75ae55e7f4"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "c34adb8019547bbc68199d19d9963347b75692ca2561cda2ce5562f2566b22f7"
+metafile = true
+
+[[files]]
+file = "mods/pneumonocore-1.2.1+1.21.11+A.jar"
+hash = "288fc06a1a345056fca85d4590dae1d6ebe99252ebad1579bef469bbaa16c59d"
+
+[[files]]
+file = "mods/scholar-fabric-1.21.11-1.1.11.jar"
+hash = "b45fb7ada4289c25c8f18c3d7ae39fa063e524258119ba45353c7c15332476ac"
+
+[[files]]
+file = "mods/scholar.pw.toml"
+hash = "ff74081c2823dd62ab228805e2d5830292ffb0febc528df0ac6a483d62d55f31"
+metafile = true
+
+[[files]]
+file = "mods/servercore-fabric-1.5.15+1.21.11.jar"
+hash = "efc7a163f0c539d03c5ec42c092f9be56a0fe8666b871a63082502ef79330510"
 
 [[files]]
 file = "mods/servercore.pw.toml"
@@ -157,9 +303,17 @@ hash = "0a76421b847a5f403a4b9fc1f211a9792564c2a4c238cd7fd92727f560dc9f9a"
 metafile = true
 
 [[files]]
+file = "mods/sit!-1.2.5.1+1.21.11.jar"
+hash = "34684cb04c26ddff2e6d2d291ecb569d9f05f3e91d915525c688b8b605889f0b"
+
+[[files]]
 file = "mods/sit!.pw.toml"
 hash = "339a5093dea358ed558e77484dff1d4ac0665883857f087478c49279a893e02b"
 metafile = true
+
+[[files]]
+file = "mods/spark-1.10.156-fabric.jar"
+hash = "36ed138ffde2a2f1fcb32ecbcc7fa21beaf1611e003d19e3ad40954873e572fa"
 
 [[files]]
 file = "mods/spark.pw.toml"
@@ -167,11 +321,45 @@ hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat-2.11.0+1.21.11.jar"
+hash = "1000d14ba1952db4ed395b781a0892ae90c3103849e8e42229279f6c08eeaeba"
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "d339c1243682f47b0500ed2cb7334af2114c76ec8ea2f64d1c261ff75324775b"
 metafile = true
 
 [[files]]
+file = "mods/vcinteraction-fabric-1.21.11-1.0.8.jar"
+hash = "7aadd28fd8f2160bdf91b64416a45830219252a6d051a427f29e5a121ae3bd25"
+
+[[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "ee63322f2464e89370cf12c55740929876bf4591ab17b1ff4204d331c5cd272f"
 metafile = true
+
+[[files]]
+file = "mods/voicechat-fabric-1.21.11-2.6.8.jar"
+hash = "333b5c86a708c4291d812ba68ee2c907a648bdbd5ba86122ca0408f04aaa7d19"
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "14e36ae0e9afae5ccb68646aac7979174f19ef4a32c43898392cccf5264d2e2d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9e67328d6eaf2402b4bfc58ccc15519f41030cf3ac46af20e1ef3a72bec95909"
+metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "packwiz.json"
+hash = "f9f454b254669b9e3906dc295ba784e9ede6bfbbd7c5f9c73765ccc0d135372b"
