@@ -1,0 +1,13 @@
+name = "Craft Music Discs"
+filename = "craft-music-discs-v2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TUEdi4Do/versions/dcnZmo5g/craft-music-discs-v2.0.0.jar"
+hash-format = "sha512"
+hash = "3f14f137179bdb4762eae2a963c4684e116283b84ad7f376a07c045fd13452c6fcae44042faa232fadb9d49942f723f85a985ca3e7293f2380aad2e52dca4de3"
+
+[update]
+[update.modrinth]
+mod-id = "TUEdi4Do"
+version = "dcnZmo5g"

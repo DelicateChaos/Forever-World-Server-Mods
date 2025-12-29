@@ -164,6 +164,11 @@ hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
 metafile = true
 
 [[files]]
+file = "mods/craft-music-discs.pw.toml"
+hash = "5dc351db5c6c59936d01993c0b706b1e300ecf2512416fff2340f0d0622cd69e"
+metafile = true
+
+[[files]]
 file = "mods/craftable-name-tag.pw.toml"
 hash = "13a527880bac9bd249ce8f63299ae26c8452fe19edbb5f6ee75dc055f398d2fa"
 metafile = true
