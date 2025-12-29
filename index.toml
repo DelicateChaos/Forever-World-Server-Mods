@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "b0004935c5e8f7ff3a9f4cb1cd8e0419ecb16ea7efb009ec8a2e470670301aad"
+hash = "4a174c8cc0c2886aaf27ae1c37769a724593dfb5c54cd0369514b2ead89c7f48"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -107,6 +107,14 @@ hash = "a11820ecbc5be6ba5550141ed7019f1a20ab401214ff056d25691d840dc580bd"
 [[files]]
 file = "mods/Jade-1.21.11-Fabric-21.0.1.jar"
 hash = "90760682c93d2af7e8e1b21703c47519d56f4ef752a2b0518d21d31796ea4ad3"
+
+[[files]]
+file = "mods/XaerosWorldMap_1.40.0_Fabric_1.21.11.jar"
+hash = "9b23bdd7227efa8f16990c7db3c1c24941dad8b593ba3676de838152e8f0b5ee"
+
+[[files]]
+file = "mods/Xaeros_Minimap_25.3.0_Fabric_1.21.11.jar"
+hash = "38be544ff9397f2c20511f9e764f7a68ed11b8e63b80fefe49347f83693e3128"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -228,6 +236,10 @@ metafile = true
 file = "mods/jade.pw.toml"
 hash = "53ca4dd806e6ae6b3d72d7707ff59c30bb6b07b7f9c2b0a2a82534c0ecfb78c4"
 metafile = true
+
+[[files]]
+file = "mods/jei-1.21.11-fabric-27.3.0.12.jar"
+hash = "62136100d6e687021ecd15b0240397a6a3dbd30a2bf3916de8230a91eef20987"
 
 [[files]]
 file = "mods/jei.pw.toml"
@@ -367,4 +379,4 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "f9f454b254669b9e3906dc295ba784e9ede6bfbbd7c5f9c73765ccc0d135372b"
+hash = "bf6646a5a9ae9492e2e30cedd24782ab2169743d8d20ca80422649ec3c205a44"
