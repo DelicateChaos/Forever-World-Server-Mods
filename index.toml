@@ -320,6 +320,10 @@ hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
 metafile = true
 
 [[files]]
+file = "mods/servux-fabric-1.21.11-0.9.1.jar"
+hash = "b2124f6509f0d52bc2bb32cbfe7ffae0372dd6ff2813f16a483ac3c987a636ba"
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "f3b5fd87fcc538dfb46b73005ab3e0c67ce66995c570677f1e46a912f968b671"
 metafile = true
@@ -397,4 +401,4 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "6d3f4e77ab1ee103e3005f3f8c3722c803644a67960435b6b9f34b0cac3db48b"
+hash = "ea51db5d6d6f00b9aab544af20cfe347c8dcc18a56cbc21894774406c103ca6e"
