@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "4a174c8cc0c2886aaf27ae1c37769a724593dfb5c54cd0369514b2ead89c7f48"
+hash = "7ddd0533ca3be8713d3cfd915dd5de4aeb9a9cff93662efde0589f63a5f80858"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -85,16 +85,16 @@ file = "mods/AxesAreWeapons-1.9.5-fabric-1.21.11.jar"
 hash = "1547b99c8dc69f3516c840cab135023b861fa4638b9d66e4a7f5c7ee392b2917"
 
 [[files]]
-file = "mods/DistantHorizons-2.4.2-b-1.21.11-fabric-neoforge.jar"
-hash = "8a6a6a9600ed95fdb6c673a90b8ef20863971f2902cd166a1561b9648e880c07"
+file = "mods/DistantHorizons-2.4.5-b-1.21.11-fabric-neoforge.jar"
+hash = "7694c7a17e55f5bef21b456c22a2b1c4e48060b37467dee2b71d4c12e586bc3f"
 
 [[files]]
 file = "mods/FABRIC-1.21.11-0.1.jar"
 hash = "67a5b5ac1d462750b976ebc860e0224277e26f506f225784008b504bb28102db"
 
 [[files]]
-file = "mods/FarmersDelight-1.21.11-3.4.2+refabricated.jar"
-hash = "1640d05f628b5b7d98dc464786ed5e9603d3fb0ba5781db29fe2aaef5e0cd91e"
+file = "mods/FarmersDelight-1.21.11-3.4.3+refabricated.jar"
+hash = "8a4cb5baf569395d1a6e794d477a8b4244bddde2178ea5533d15eb0339cb2ab2"
 
 [[files]]
 file = "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
@@ -105,16 +105,8 @@ file = "mods/InvView-1.4.19-1.21.11+.jar"
 hash = "a11820ecbc5be6ba5550141ed7019f1a20ab401214ff056d25691d840dc580bd"
 
 [[files]]
-file = "mods/Jade-1.21.11-Fabric-21.0.1.jar"
-hash = "90760682c93d2af7e8e1b21703c47519d56f4ef752a2b0518d21d31796ea4ad3"
-
-[[files]]
-file = "mods/XaerosWorldMap_1.40.0_Fabric_1.21.11.jar"
-hash = "9b23bdd7227efa8f16990c7db3c1c24941dad8b593ba3676de838152e8f0b5ee"
-
-[[files]]
-file = "mods/Xaeros_Minimap_25.3.0_Fabric_1.21.11.jar"
-hash = "38be544ff9397f2c20511f9e764f7a68ed11b8e63b80fefe49347f83693e3128"
+file = "mods/Jade-1.21.11-Fabric-21.1.0.jar"
+hash = "a5da2686eea1259b51623dd137b5ec098869d40323fcc526f2a6ed33c937d3bc"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -140,12 +132,12 @@ hash = "42538c5ce50442ed0294ccee2bf1cb619e8590b6bc898fc30eb314b3d281b54d"
 metafile = true
 
 [[files]]
-file = "mods/audioplayer-fabric-2.0.10+1.21.11.jar"
-hash = "352e6b0a23752cc94eea2b232cee229c09b7bcb155a36a308238a1012c21280d"
+file = "mods/audioplayer-fabric-2.1.0+1.21.11.jar"
+hash = "2cbbe8ec2bdebd92a81e29cb1c30dc17a75ef1f8fd9cea6fdc661708e274fd21"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "e0977ddb68d1052103b190855db0f56a85499351fcd1f43df42c4ff37021b01c"
+hash = "5f2f0ac0042cf3a274098074d3acee7e61692d1c0a2ef87d883f9607aeefef9d"
 metafile = true
 
 [[files]]
@@ -159,12 +151,12 @@ hash = "fbb61854650a7cdf7eb2244e0599bae2f0541864a9b7cf74f8272972e6bdb18e"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config-21.11.151-fabric.jar"
-hash = "e283d104a4a01b13e5a7dd4957056e3c735fcda83d6b31f3bc8f3ba469a18f14"
+file = "mods/cloth-config-21.11.153-fabric.jar"
+hash = "8a40c84e5ecde525acfb6c4e13b8002dacfca3ef9534d7faf6e8049656f423c8"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "72f3dbfcfbf16d8437d865b090c4338cf32de86f290e8e8dde5626cb301bb4c7"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
@@ -192,21 +184,25 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "8395078cc9b359cf76e0bf950c57b886101446d1c7893a733c9cc16fd6c7d2f8"
+hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api-0.139.5+1.21.11.jar"
-hash = "5544c9a917b819f32219bf96fe35c5407b818c9b64146fddbdf049286cd731a9"
+file = "mods/fabric-api-0.141.1+1.21.11.jar"
+hash = "6a577f83bd8b33c9404127d16531acc9c4195f47de0395957c9d4cd09d7b98c6"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cf6edd71a012b437bca4bcac93c44d1109632db31b5f638d28b58fa77cf771b5"
+hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
 metafile = true
 
 [[files]]
+file = "mods/fabric-carpet-1.21.11-1.4.194+v251223.jar"
+hash = "1b4d66f0332bda5deee08755e493c2d6ac64d64d5285e1134aa03604975c2521"
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "3403d9412dbde3e26f7a94b140f58c37757224485bc3962a3917a47d7f904d34"
+hash = "cf5b0a4b5c04a3f75b0824629daba6d26fff2e5bbf5d0a8e3757b2267149e9f0"
 metafile = true
 
 [[files]]
@@ -243,16 +239,16 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "53ca4dd806e6ae6b3d72d7707ff59c30bb6b07b7f9c2b0a2a82534c0ecfb78c4"
+hash = "7bed38b83c963cfa00e11054c8324cc95594a00f8613d306bd9cf12b26a34552"
 metafile = true
 
 [[files]]
-file = "mods/jei-1.21.11-fabric-27.3.0.12.jar"
-hash = "62136100d6e687021ecd15b0240397a6a3dbd30a2bf3916de8230a91eef20987"
+file = "mods/jei-1.21.11-fabric-27.3.0.14.jar"
+hash = "64f2ab22a5c66bbcce2c652ebffe561f61162dc13a65f09eed9211b3c8669963"
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b322ceb4058faa12a4f2ad1fa855e69d372d8536526c26f8c875a2f7d6e2234a"
+hash = "b953bbb028f8c6f1720f9d1c7d6b8bd99fa837a1732006aa8633a3f7537c6f39"
 metafile = true
 
 [[files]]
@@ -265,12 +261,12 @@ file = "mods/justplayerheads-1.21.11-4.3.jar"
 hash = "fec21c60974534cda5e6566d0f074e9d253496e0342652f953eb2cff68ccf836"
 
 [[files]]
-file = "mods/lithium-fabric-0.21.1+mc1.21.11.jar"
-hash = "6cf5e8fd272dc332066b65cb5c2e8a16b99fb9e83dd87bb9ba9c5953e2cf530e"
+file = "mods/lithium-fabric-0.21.2+mc1.21.11.jar"
+hash = "3106639c73ee23f44bfbe5e5e7a8154dfe3ad0fd48491e4a85767598ed7b0739"
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
@@ -324,17 +320,22 @@ hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "0a76421b847a5f403a4b9fc1f211a9792564c2a4c238cd7fd92727f560dc9f9a"
+file = "mods/servux.pw.toml"
+hash = "f3b5fd87fcc538dfb46b73005ab3e0c67ce66995c570677f1e46a912f968b671"
 metafile = true
 
 [[files]]
-file = "mods/sit!-1.2.5.1+1.21.11.jar"
-hash = "34684cb04c26ddff2e6d2d291ecb569d9f05f3e91d915525c688b8b605889f0b"
+file = "mods/simple-voice-chat.pw.toml"
+hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
+metafile = true
+
+[[files]]
+file = "mods/sit!-1.2.5.2+1.21.11.jar"
+hash = "5f192b572ef959cf4d1d9b7de1b48ffce95f463453d44bfc3745d42704decebb"
 
 [[files]]
 file = "mods/sit!.pw.toml"
-hash = "339a5093dea358ed558e77484dff1d4ac0665883857f087478c49279a893e02b"
+hash = "aa2f75744edd5dd05766f39f045e967327afb1d9aa076947030929f29edcc0c2"
 metafile = true
 
 [[files]]
@@ -365,18 +366,26 @@ hash = "ee63322f2464e89370cf12c55740929876bf4591ab17b1ff4204d331c5cd272f"
 metafile = true
 
 [[files]]
-file = "mods/voicechat-fabric-1.21.11-2.6.8.jar"
-hash = "333b5c86a708c4291d812ba68ee2c907a648bdbd5ba86122ca0408f04aaa7d19"
+file = "mods/voicechat-fabric-1.21.11-2.6.11.jar"
+hash = "1b5fe15fee0655ead032762b95a35d07cbbe0dfd21c25ee0b5247ac9d1b9353b"
+
+[[files]]
+file = "mods/xaerominimap-fabric-1.21.11-25.3.5.jar"
+hash = "7658b6026fa5df2c3dacfdcd2951e156c75fbc5acea846e0639147b8f4236b52"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "14e36ae0e9afae5ccb68646aac7979174f19ef4a32c43898392cccf5264d2e2d"
+hash = "2c6ad75996654f04dfe44a15d64abd5c2ae1d9fddca6d3e24cab236f3d589195"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9e67328d6eaf2402b4bfc58ccc15519f41030cf3ac46af20e1ef3a72bec95909"
+hash = "e9395a06548b7cedb1d8df2a80569b858ea4ffe49d8cb31fdc363328658319f3"
 metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-fabric-1.21.11-1.40.6.jar"
+hash = "c3896b938d6d1af796a3ff96135c63a610a34adc263ec6900ad8b039432a2d3b"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
@@ -388,4 +397,4 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "4545ca07b8826c12734497c9793e1d242e635a2d2743a312b2d3d66a11f90d74"
+hash = "6d3f4e77ab1ee103e3005f3f8c3722c803644a67960435b6b9f34b0cac3db48b"
