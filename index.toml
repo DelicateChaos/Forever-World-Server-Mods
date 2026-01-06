@@ -154,6 +154,11 @@ hash = "560e35197f3a2d34b709aeb79098e4ac480b52bf2115aa8f5c5ed194d88b29c9"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "fbb61854650a7cdf7eb2244e0599bae2f0541864a9b7cf74f8272972e6bdb18e"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config-21.11.151-fabric.jar"
 hash = "e283d104a4a01b13e5a7dd4957056e3c735fcda83d6b31f3bc8f3ba469a18f14"
 
@@ -170,6 +175,10 @@ hash = "f79aa00b159be2ca65421557872939d1aa3532f4f91066fa38b8ab9c0265d2ef"
 file = "mods/collective.pw.toml"
 hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
 metafile = true
+
+[[files]]
+file = "mods/craft-music-discs-v2.0.0.jar"
+hash = "577d5e51495158fac8573b6a267ad851a3f5272318230c7af0735ec6dc04eb83"
 
 [[files]]
 file = "mods/craft-music-discs.pw.toml"
@@ -379,4 +388,4 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "bf6646a5a9ae9492e2e30cedd24782ab2169743d8d20ca80422649ec3c205a44"
+hash = "4545ca07b8826c12734497c9793e1d242e635a2d2743a312b2d3d66a11f90d74"
