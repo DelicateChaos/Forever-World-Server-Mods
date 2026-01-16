@@ -169,6 +169,11 @@ hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
 metafile = true
 
 [[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "4770a4eeea89b0dbd208491d31767f73cc0cea82496fedeeb045736c415c2947"
+metafile = true
+
+[[files]]
 file = "mods/craft-music-discs-v2.0.0.jar"
 hash = "577d5e51495158fac8573b6a267ad851a3f5272318230c7af0735ec6dc04eb83"
 
@@ -202,7 +207,7 @@ hash = "1b4d66f0332bda5deee08755e493c2d6ac64d64d5285e1134aa03604975c2521"
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "cf5b0a4b5c04a3f75b0824629daba6d26fff2e5bbf5d0a8e3757b2267149e9f0"
+hash = "7d134ff1f48d4eaca079c8669560faaf7b75230705d74109e1df26dee67d95c4"
 metafile = true
 
 [[files]]
@@ -239,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "7bed38b83c963cfa00e11054c8324cc95594a00f8613d306bd9cf12b26a34552"
+hash = "21caf1cc09d510a23284e704cb5211408085d5964e5d6ca129fc0dc175c8fb79"
 metafile = true
 
 [[files]]
@@ -248,7 +253,7 @@ hash = "64f2ab22a5c66bbcce2c652ebffe561f61162dc13a65f09eed9211b3c8669963"
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b953bbb028f8c6f1720f9d1c7d6b8bd99fa837a1732006aa8633a3f7537c6f39"
+hash = "fce2b731ee4e4884f17248e9acfa591fa28e9b1f786272175b8b653aa9e6904b"
 metafile = true
 
 [[files]]
@@ -307,7 +312,7 @@ hash = "b45fb7ada4289c25c8f18c3d7ae39fa063e524258119ba45353c7c15332476ac"
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "ff74081c2823dd62ab228805e2d5830292ffb0febc528df0ac6a483d62d55f31"
+hash = "687de9956022413499a7d354f24f73305dbb13c14a47add3f04903384b70fa5f"
 metafile = true
 
 [[files]]
@@ -401,4 +406,4 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "ea51db5d6d6f00b9aab544af20cfe347c8dcc18a56cbc21894774406c103ca6e"
+hash = "4c0881e1e7578ef9507a79d36ae58cc61b9308407be70b868039f827e305030b"
